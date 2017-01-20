@@ -6,7 +6,7 @@
     "email": ".edu",
     "phone": "",
     "website": "https://zknoebel.github.io",
-    "summary": "Current Information Computer Science student at the University of Hawaii at Manoa with a focun in Cyber Security. Software developer working for the University of Hawaii. United States Marine Corps veteran with four years of experience in project management, customer service and training and mentoring of others.",
+    "summary": "Current Information Computer Science student at the University of Hawaii at Manoa with a focus in Cyber Security. Software developer working for the University of Hawaii. United States Marine Corps veteran with four years of experience in project management, customer service and training and mentoring of others.",
     "location": {
       "address": "",
       "postalCode": "96734",
@@ -53,7 +53,7 @@
 	"management",
         "C++",
         "Java",
-        "Javascript",
+        "JavaScript",
         "Spring"
       ]
     },
@@ -64,7 +64,7 @@
         "Linux",
         "Git/GitHub",
         "gcc",
-	"Eclipe",
+	"Eclipse",
 	"IntelliJ",
         "Spring Boot"
       ]
@@ -109,7 +109,7 @@
     },
     {
       "company": "Tamura\'s Fine Wines",
-      "position": "Casheer",
+      "position": "Cashier",
       "website": "",
       "startDate": "2015-12-30",
       "endDate": "2016-11-01",
@@ -170,7 +170,7 @@
       "title": "Bursting Bomb Achievement Certificate",
       "date": "2012",
       "awarder": "US Marine Corps",
-      "summary": "Superior performance and outstanding achievment"
+      "summary": "Superior performance and outstanding achievement"
     },
     {
       "title": "Honor Graduate",
