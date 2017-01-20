@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/classScheduler.png
 title: Vacay
 permalink: projects/vacay
 date: 2015

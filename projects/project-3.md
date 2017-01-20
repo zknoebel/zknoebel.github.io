@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/uhgroupings.jpg
 title: Cotton
 permalink: projects/cotton
 date: 2014
