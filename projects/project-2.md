@@ -2,23 +2,17 @@
 layout: project
 type: project
 image: images/classScheduler.png
-title: Vacay
+title: Class Scheduler
 permalink: projects/vacay
-date: 2015
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Schedule
+summary: A program that takes in all possible classes for a semester and returns all possible combinations for those classes in a weekly schedule for that semseter.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Before the 2017 spring semester at UH Manoa, there was no tool to help the students figure out their class schedules. Between my first and second semesters of java, I developed this program to output all of the possibilites and combonations of classes so I could help myself decide which classes to take at which times.
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
