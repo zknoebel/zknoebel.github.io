@@ -12,12 +12,7 @@ labels:
 summary: Myself and Declan Hong made a tank game for our ICS 111 class at UH Manoa
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+  <img class="ui image" src="../images/tankGameLong.png">
 
 At the University of Hawaii at Manoa for ICS 111 each student has to do a final project with a partner or a group. For my final project, my partner and I decided to make a 2D tank game.
 
