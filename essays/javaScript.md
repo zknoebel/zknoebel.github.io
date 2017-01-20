@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: First Thoughts on Javascript
+title: First Thoughts on Javascript and Athletic Programming
 date: 2017-01-20
 labels:
   - Javascript
