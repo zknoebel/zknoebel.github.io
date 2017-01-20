@@ -16,7 +16,7 @@ summary: A web based program to let proffessors and other faculty create and mai
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
-
+a whole bunch of stuff that im going to write
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
