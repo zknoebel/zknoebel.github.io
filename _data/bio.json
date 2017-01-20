@@ -6,7 +6,7 @@
     "email": ".edu",
     "phone": "",
     "website": "https://zknoebel.github.io",
-    "summary": "I am a student pursuing a BS degree in Computer Science with a focus on Cyber Security. My expected date of graduation will be in the summer of 2018.",
+    "summary": "Current Information Computer Science student at the University of Hawaii at Manoa with a focun in Cyber Security. Software developer working for the University of Hawaii. United States Marine Corps veteran with four years of experience in project management, customer service and training and mentoring of others.",
     "location": {
       "address": "",
       "postalCode": "96734",
@@ -50,6 +50,7 @@
       "level": "",
       "keywords": [
         "C",
+	"management",
         "C++",
         "Java",
         "Javascript",
@@ -105,18 +106,85 @@
       "highlights": [
         "",
       ]
+    },
+    {
+      "company": "Tamura\'s Fine Wines",
+      "position": "Casheer",
+      "website": "",
+      "startDate": "2015-12-30",
+      "endDate": "2016-11-01",
+      "summary": "Handled cash, customers and products.",
+      "highlights": [
+        "",
+      ]
+    },
+    {
+      "company": "United States Marine Corps",
+      "position": "Sergeant",
+      "website": "www.marines.mil",
+      "startDate": "2011-12-05",
+      "endDate": "2015-12-04",
+      "summary": "Worked with the M777A1 Howitzer and ran the armory.",
+      "highlights": [
+        "",
+      ]
+    },
+    {
+      "company": "Eder Improvement",
+      "position": "Carpenter/Roofer",
+      "website": "",
+      "startDate": "2011-07-01",
+      "endDate": "2011-12-01",
+      "summary": "Completed a wide variety of construction and remodeling for more than 10 homes, including but not limited to siding, small repairs, drywalling, molding, and gutters.",
+      "highlights": [
+        "",
+      ]
+    },
+    {
+      "company": "Kuehn Painting",
+      "position": "Painter",
+      "website": "",
+      "startDate": "2005-07-01",
+      "endDate": "2011-07-01",
+      "summary": "Worked as a team to professionally finish more than 30 luxury houses including the painting, staining and finishes processes.",
+      "highlights": [
+        "",
+      ]
     }
-    
   ]
   ,
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": "Dean\'s List",
+      "date": "2016",
+      "awarder": "Dean of UH Manoa",
+      "summary": "4.0 GPA for the year of 2016"
+    },
+    {
+      "title": "Good Conduct Medal",
+      "date": "2014",
+      "awarder": "US Marine Corps",
+      "summary": ""
+    }, 
+    {
+      "title": "Bursting Bomb Achievement Certificate",
+      "date": "2012",
+      "awarder": "US Marine Corps",
+      "summary": "Superior performance and outstanding achievment"
+    },
+    {
+      "title": "Honor Graduate",
+      "date": "2012",
+      "awarder": "US Marine Corps",
+      "summary": "Top of a class of over 80 students at Fort Sill Oklahoma"
+    },
+    {
+      "title": "Most Likely to Succeed",
+      "date": "2011",
+      "awarder": "Waukesha County Technical College",
       "summary": ""
     },
-    
+
   ],
   "references": [
     {
