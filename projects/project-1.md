@@ -21,6 +21,6 @@ The object of the game is to shoot the other tank until it explodes, before the 
 The engine used to create this game was EZ Java which is a java program developed by one of the grad students at UH Manoa.
 
 Source: <a href="https://github.com/zknoebel/TankGame"><i class="large github icon "></i>zknoebel/Tank Game</a>
-Source: <a href="https://www.youtube.com/watch?v=hSODoFGvphg"><i class="large github icon "></i>youtube/Tank Game</a>
+Video: <a href="https://www.youtube.com/watch?v=hSODoFGvphg"></i>youtube/Tank Game</a>
 
 
