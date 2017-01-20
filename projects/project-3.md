@@ -22,5 +22,5 @@ There is an open source project called grouper. It is used to create and organiz
 
 UH Groupings accomplishes this by having a automatically maintained basis group and then letting the group owner controll which members to exclude and which non-members to include.
 
-Source: <a href="https://github.com/uhawaii-system-its-ti-iam/uhgroupings"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/uhawaii-system-its-ti-iam/uhgroupings"><i class="large github icon "></i>uhawaii-system-its-ti-iam/uhgroupings</a>
 
