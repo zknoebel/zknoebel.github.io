@@ -20,10 +20,13 @@ The second part of the question is where the querier gets the chance to elaborat
 
   <img class="ui image" src="../images/essayPics/smartQuestions/goodQuestion.png">
 
-Link to the question: <a href="http://stackoverflow.com/questions/22318527/how-to-use-vim-latexsuite-with-a-makefile">Stack Overflow</a>
+  Link to the question: <a href="http://stackoverflow.com/questions/22318527/how-to-use-vim-latexsuite-with-a-makefile">Stack Overflow</a>
 
 Other than the question itself being good, this example shows how a well written question often gets a precise answer and what should be done if a good answer is received. The answer not only gives two alternate ways to fix the problem, but also gives the location of where this information can be found and read for further in depth understanding of the problem. After the querier tried out the proposed solution, instead of seeing that his problem was fixed and going on his merry way, he actually takes the time to go back to the post and report that the solution worked. This does two things. One, it shows gratitude towards the person who answered the question, which makes it more likely that the person who answered will take time out of their life to provide free advice to the community again later. Two, it lets other people who have the same problem know that the solution worked, which makes it more likely that the question will not needlessly posted again, having the original, correctly answered post slowly fall into obscurity. 
 
 
 
 Next is an example of a question that is not written very well.
+
+  <img class="ui image" src="../images/essayPics/smartQuestions/badQuestion.png">
+
