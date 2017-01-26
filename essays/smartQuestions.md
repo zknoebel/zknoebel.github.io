@@ -30,4 +30,9 @@ Next is an example of a question that is not written very well. Lets start with 
 
   <img class="ui image" src="../images/essayPics/smartQuestions/badQuestion.png">
 
+  Link to the question: <a href="http://stackoverflow.com/questions/35168055/multiple-html-stuff-stuff-stuff">Stack Overflow</a>
+
+
 Finally after that, the writers question gets answered. Besides the question itself, the writer never takes the time to post anything else so that the answered question can help others. This means that someone looking for the same answer is going to have to post the question over again. 
+
+Hopefully there are a few things to be learned from looking at these examples. Most importantly, writing a "smart" question will probably get you a better answer and people who have the same problem will be able to use your answered question as a reference instead of having to ask it again and waste everyone's time.  
