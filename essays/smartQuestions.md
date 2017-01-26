@@ -26,7 +26,8 @@ Other than the question itself being good, this example shows how a well written
 
 
 
-Next is an example of a question that is not written very well.
+Next is an example of a question that is not written very well. Lets start with the title, "Multiple html stuff stuff stuff." All we can really tell is that the question is about html. There might be multiple questions, or multiple problems, but at least we know it is about stuff, so that's great. Why would someone want to look at your post if you cannot even take the time to write out a question? Well, no worries, we are taking the time to look at it, so maybe the writer will explain themselves in the spot where they get to describe the question in a few more line. However instead, the writer just says that he or she has code that successfully does something, but still does not really state the problem. After some probing from the other users, the writer actually states what the problem is.
 
   <img class="ui image" src="../images/essayPics/smartQuestions/badQuestion.png">
 
+Finally after that, the writers question gets answered. Besides the question itself, the writer never takes the time to post anything else so that the answered question can help others. This means that someone looking for the same answer is going to have to post the question over again. 
