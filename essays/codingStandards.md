@@ -18,16 +18,23 @@ For the last week, we have been using a tool called ESLint. It is easy to instal
 
 With everything that has been said so far, you might be thinking that fixing stuff like "x ++" or changing double quotes to single quotes doesn't really seem that important. Well, you are probably right, and honestly, if that was all ESLint did, I probably wouldn't spend the time to ever use it after this class. My favorite thing about it is that if someone else writes code like this
 
+```
+
 	while(x = true)
 		y = x * 2;
 		x ++;
 
+```
+
 it will give an error and make the code change to this.
+
+```
 
 	while(x = true){
 		y = x * 2; 
 	}
 	x ++; 
+```
 
 When that while loop is in the middle of 1000 or more lines of code, it can be quite easy to overlook it while trying to figure out where the bug is in the program. 
 
