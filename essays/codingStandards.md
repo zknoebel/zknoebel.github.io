@@ -20,7 +20,7 @@ With everything that has been said so far, you might be thinking that fixing stu
 
 ```
 
-	while(x = true)
+	while(x < 10)
 		y = x * 2;
 		x ++;
 
@@ -30,7 +30,7 @@ it will give an error and make the code change to this.
 
 ```
 
-	while(x = true){
+	while(x < 10){
 		y = x * 2; 
 	}
 	x ++; 
