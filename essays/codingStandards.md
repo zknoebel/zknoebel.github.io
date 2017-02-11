@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards
+title: Playing With Lint
 date: 2017-02-09
 labels:
   - JavaScript
   - Software Engineering
   - Coding Standards
   - Coding Style
+  - ESLint
 ---
 
 Coding standards are a very important part of writing code that is easily readable and understandable by others. Having standards in the way code is written is essential to writing large projects in a group environment. It also helps quicken the pace of development of open source projects, and makes it easier to share ideas. 
