@@ -13,7 +13,7 @@ labels:
 
 When building software, configuration management is very important. It helps to solve the main issues that come along with working in teams and it also helps to solve the issues that come with versioning. 
 
-Two of the most popular tools available for configuration management are Git and GitHub. Git is a program that actually does most of the configuration management. It lets keep track of versions of your files by keeping logs of your changes. This allows you to revert to back to previous versions without having to keep entire copies of every file version. It also allows for "pushing" and "pulling." This is the ability to move those changes between computers, which is where GitHub comes into play. 
+Two of the most popular tools available for configuration management are Git and GitHub. Git is a program that actually does most of the configuration management. It lets you keep track of versions of your files by keeping logs of your changes. This allows you to revert to back to previous versions without having to keep entire copies of every file version. It also allows for "pushing" and "pulling." This is the ability to move those changes between computers, which is where GitHub comes into play. 
 
 GitHub is a website that offers free cloud storage and does and excellent job of facilitating everything that can be done with Git. Having a cloud based repository can be very important when you want to be able to show off your work or have it available for others to fork or contribute to with Git. On top of this, it makes it really easy to start working on a project in one location and then continue working on it later in a different location. I do this between the laptop that I use for school and my home computer almost every day.
 
