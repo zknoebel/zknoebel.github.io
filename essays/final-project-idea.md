@@ -21,3 +21,11 @@ in example:
 	strings to filter out
 	email addresses not to ignore
 	algorithm to detect sets of words/phrases and repeating sentences
+
+This project will use Meteor and Mongo to store user settings and strings to ignore.
+
+The UH login will happen when the user logs in to their email
+
+created by:
+Zachery Knoebel
+Brian Mayeshiro
