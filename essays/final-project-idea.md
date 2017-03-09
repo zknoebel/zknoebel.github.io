@@ -8,11 +8,19 @@ labels:
   - Meteor
 ---
 
+## Overview
+
 problem: 
 unwanted email about things like moped theft
 
 solution:
 make a filter for Gmail that gets rid of emails containing certain strings like "moped theft". 
+
+This project will use Meteor and Mongo to store user settings and strings to ignore.
+
+The UH login will happen when the user logs in to their email
+
+## Mockup page ideas
 
 mock up page:
 this project will be an extension for Gmail
@@ -22,9 +30,13 @@ in example:
 	email addresses not to ignore
 	algorithm to detect sets of words/phrases and repeating sentences
 
-This project will use Meteor and Mongo to store user settings and strings to ignore.
+## Use case ideas
 
-The UH login will happen when the user logs in to their email
+The specific use case for this would be to move all emails containing the phrase "moped theft" into "Spam" folder in Gmail.
+
+## Beyond the Basics
+
+Instead of just filtering to the spam folder in Gmail, the program would be able to make and track more Gmail folders and do things like add all "moped theft" emails into a mopedTheft folder. 
 
 created by:
 Zachery Knoebel
