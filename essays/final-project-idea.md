@@ -10,10 +10,10 @@ labels:
 
 ## Overview
 
-problem: 
+problem 
 unwanted email about things like moped theft
 
-solution:
+solution
 Make a filter for Gmail that gets rid of emails containing certain unwanted strings.
 
 This project will use Meteor and Mongo to store user settings and strings to ignore.
@@ -22,11 +22,11 @@ The UH login will happen when the user logs in to their email and be used to acc
 
 ## Mockup page ideas
 
-mock up page:
+mock up page
 
 This project will be an extension for Gmail.
 
-in example:
+in example
 	strings to filter out
 	email addresses not to ignore
 	algorithm to detect sets of words/phrases and repeating sentences
@@ -41,6 +41,6 @@ Instead of just filtering to the spam folder in Gmail, the program would be able
 
 Add option to highlight a string and right click to add the string to the block list and/or to create a folder for the string.
 
-created by:
+created by
 Zachery Knoebel
 Brian Mayeshiro
