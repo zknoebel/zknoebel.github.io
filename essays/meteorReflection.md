@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Meteor
+title: The Impact of Meteor
 date: 2017-03-23
 labels:
   - Meteor
@@ -17,3 +17,6 @@ Though Meteor takes its sweet time to get itself up and running the app, it make
 
 It seems that Meteor is catered toward the Unix fans. Myself on Linux and my classmates running Linux or on Macs had an extremely easy time installing Meteor. They made it so it only takes a few commands from the terminal and it is all set up. However, the others on Windows had a much different experience. Those of them not yet on Windows 10 had to make the switch and some of them who could not get it running even with Windows 10 ended up switching to Linux. So I guess if they got that far, it is a win, win situation.
 
+Overall Meteor has quite a learning curve, but after a week or so going through the tutorials, you will find that the default structure is very well thought out and easy to comprehend. It is set up in a way that Meteor lets you write code that can be run on the server, the client or both which comes in handy. This allows the user to have their own mini database, which in turn allows for faster feedback when a user changes something in the main database, because their browser will reflect their mini database, while that database takes the time to update the actual database on the server. On top of that, it is kind of nice to know that the only actual language you need to know is JavaScript. 
+
+All in all, Meteor is a nice framework to run if you have the right operating system and enough horse power to run is smoothly. It is easy to install, easy to run and keep updated and it is easy to see your changes as you make them. It might not be the best framework out there, but it is certainly worth looking into.
