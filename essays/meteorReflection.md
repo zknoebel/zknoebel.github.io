@@ -7,7 +7,7 @@ labels:
   - Meteor
 ---
 
-  <img class="ui small image" src="../images/essayPics/meteor.jpeg">
+  <img class="ui small left aligned image" src="../images/essayPics/meteor.jpeg">
 
 With most frameworks designed to build web apps, one has to learn a multitude of languages to get started building real apps. In some cases you might have and Angular front end running JavaScript and then have a back-end framework of something like Spring running Java with an SQL database. All together this bonding of different languages and frameworks is supposed to make life easier for you in the long run. Once you are proficient with all of these technologies and how they fit together, you will quickly and efficiently be able to make usable websites. Doing the fine tuning will of course take a bit longer no matter what framework you are using, but sometimes getting a usable site, even if it is in the beta stages is the most important part.
 
