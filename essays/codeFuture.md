@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -9,3 +8,6 @@ labels:
   - Computer Science
 ---
 
+Ethics in Computer Science
+
+When writing code, it is easy to focus on the code itself and getting it to work the way that you want it without taking the time to think about how your creation will effect the world around you and the people in it. 
