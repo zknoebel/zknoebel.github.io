@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhpool.jpg
+image: images/profile.png
 title: UHPool
 permalink: projects/cotton
 date: 2017
@@ -17,10 +17,9 @@ summary: An app for UH students and staff to find people to carpool with
 
 <img class="ui image" src="{{ site.baseurl }}/images/uhgroupingslong.jpg">
 
+This app is made to allow people with a UH username and password to find people to carpool with. The parking situation at UH is not very good. There are not enough parking spaces to accommodate all of the people who need to park. Lots of people have to take the bus, or park in the subdivisions close to school and then walk in. For the people who can get spots, there is a fee and it is hundreds of dollars per semester. Carpooling helps to solve this situation by allowing people to save gas money and parking money.
 
-There is an open source project called grouper. It is used to create and organize groups of subjects. In our case subjects are normally people, usually students and staff at the various universities in the University of Hawaii system. These groups are developed and maintained by the Information Technology Systems (ITS) staff at the University of Hawaii at Maona. The idea of UH Groupings is to give some of that control over to the various staff members in charge of the groups themselves without having to go through the ITS staff first.
-
-UH Groupings accomplishes this by having a automatically maintained basis group and then letting the group owner controll which members to exclude and which non-members to include.
+Once a user signs in, they can create a profile with their information and also look at listings from other users. They can create their own listings as well. This entails submitting a small form with their location and the times that they want to be going back and forth. Once they submit their form, other users can search for times and place that match and it will come up so other users can accept the listing. After this the users will be connected and can start carpooling together. 
 
 Source: <a href="https://github.com/uhawaii-system-its-ti-iam/uhgroupings"><i class="large github icon "></i>uhawaii-system-its-ti-iam/uhgroupings</a>
 
