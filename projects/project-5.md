@@ -21,5 +21,5 @@ This app is made to allow people with a UH username and password to find people 
 
 Once a user signs in, they can create a profile with their information and also look at listings from other users. They can create their own listings as well. This entails submitting a small form with their location and the times that they want to be going back and forth. Once they submit their form, other users can search for times and place that match and it will come up so other users can accept the listing. After this the users will be connected and can start carpooling together. 
 
-Source: <a href="https://github.com/uhawaii-system-its-ti-iam/uhgroupings"><i class="large github icon "></i>uhawaii-system-its-ti-iam/uhgroupings</a>
+Source: <a href="uhpool.meteorapp.com"></i>UHPool</a>
 
