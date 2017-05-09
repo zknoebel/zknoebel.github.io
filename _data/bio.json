@@ -68,8 +68,10 @@
       "level": "",
       "keywords": [
         "Linux",
+	"Windows 10",
         "Git/GitHub",
         "gcc",
+	"gdb"
 	"Eclipse",
 	"IntelliJ",
         "Spring Boot"
