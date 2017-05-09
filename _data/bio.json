@@ -39,6 +39,11 @@
       ]
     },
     {
+      "name": "Linux",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Software Development",
       "keywords": [
       ]
@@ -54,6 +59,8 @@
         "Java",
         "JavaScript",
         "Spring"
+	"Meteor"
+	"Semantic UI"
       ]
     },
     {
