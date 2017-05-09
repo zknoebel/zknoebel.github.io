@@ -58,8 +58,8 @@
         "C++",
         "Java",
         "JavaScript",
-        "Spring"
-	"Meteor"
+        "Spring",
+	"Meteor",
 	"Semantic UI"
       ]
     },
@@ -71,7 +71,7 @@
 	"Windows 10",
         "Git/GitHub",
         "gcc",
-	"gdb"
+	"gdb",
 	"Eclipse",
 	"IntelliJ",
         "Spring Boot"
