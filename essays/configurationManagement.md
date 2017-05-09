@@ -18,6 +18,6 @@ Two of the most popular tools available for configuration management are Git and
 GitHub is a website that offers free cloud storage and does and excellent job of facilitating everything that can be done with Git. Having a cloud based repository can be very important when you want to be able to show off your work or have it available for others to fork or contribute to with Git. On top of this, it makes it really easy to start working on a project in one location and then continue working on it later in a different location. I do this between the laptop that I use for school and my home computer almost every day.
 
 
-  <img class="ui image" src="../images/essayPics/configurationManagement/octocat.jpeg">
+  <img class="ui small image" src="../images/essayPics/configurationManagement/octocat.jpeg">
 
 One of the questions that we are supposed to answer for this essay is "Do you think Git is popular because of GitHub or do you think  that GitHub is popular because of Git?" Personally I think that git is popular because of GitHub. There are other version controll/ configuration management options out there that some people prefer over Git. That is not to say that git is not a great configuration management tool. On the contrary, I love Git and I use it every day. It is just that GitHub does such a great job advertising for themselves and for Git. They also make git very easy to use by itself, by offering tutorials and help with setup and common issues. Plus, how can someone not love Octocat?
